@@ -1,0 +1,3 @@
+{
+    "java.checkstyle.configuration": "${workspaceFolder}/samples/module-04/google_checks.xml"
+}
